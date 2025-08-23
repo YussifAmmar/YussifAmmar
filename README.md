@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yussif Ammar</h1>
+<h1 align="center">Hi there, I'm Yussif</h1>
 <h3 align="center">An Ambitious Data Scientist\AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yussifammar&label=Profile%20views&color=0e75b6&style=flat" alt="yussifammar" /> </p>
