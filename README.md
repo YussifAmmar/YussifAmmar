@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Advanced DL Projects**
 
-- 🤝 I’m looking for help with **NLP**
+- 🤝 I’m looking for collabrations in **NLP** Projects
 
 - 👨‍💻 All of my projects are available at [https://yussifammar.github.io/Portfolio/](https://yussifammar.github.io/Portfolio/)
 
