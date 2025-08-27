@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yussifammar&label=Profile%20views&color=0e75b6&style=flat" alt="yussifammar" /> </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yussifammar" alt="yussifammar" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=yussifammar" alt="yussifammar" />
   </a>
 </p>
+
 
 
 - 🔭 I’m currently working on **Intermediate DL Projects**
